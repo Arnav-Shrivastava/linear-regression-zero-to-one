@@ -1,0 +1,13 @@
+@'
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Data and model artifacts
+data/
+*.pt
+*.pkl
+'@ | Set-Content -Encoding utf8 .gitignore

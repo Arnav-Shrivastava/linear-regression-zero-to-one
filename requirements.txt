@@ -1,0 +1,10 @@
+@'
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+scipy
+jupyter
+'@ | Set-Content -Encoding utf8 requirements.txt
