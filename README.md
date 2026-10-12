@@ -1,4 +1,3 @@
-@'
 # 01 - Linear Regression: Zero to One
 
 House price predictor on the California Housing dataset.
@@ -22,4 +21,3 @@ _TODO_
 
 ## Folder structure
 _TODO_
-'@ | Set-Content -Encoding utf8 README.md
